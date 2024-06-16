@@ -29,10 +29,4 @@ Bienvenidos al curso "Inteligencia Artificial Para Todos" ofrecido por BDG Insti
 
 #### Registro
 
-Para registrarte, visita nuestro [sitio web](https://www.bdginstitute.com).
-
-### Conéctate con Nosotros
-
-- **Website:** [BDG Institute](https://www.bdginstitute.com)
-- **Twitter:** [@BDGInstitute](https://twitter.com/BDGInstitute)
-- **LinkedIn:** [BDG Institute](https://www.linkedin.com/company/bdginstitute)
+Para registrarte, visita nuestro [sitio web](https://bdginstitute.edu.co/).
