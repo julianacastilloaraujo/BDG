@@ -5,6 +5,6 @@
   
 📅 **Fecha:** 18 de junio de 2024  <br>
 💰 **Facilidad de pago** <br>
-👩‍💻 **Modalidad virtual**
+👩‍💻 **Modalidad virtual** <br>
 
 
