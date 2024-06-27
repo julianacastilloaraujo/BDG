@@ -10,4 +10,3 @@ La IA es una poderosa tecnología que está aportando agilidad a empresas y part
 ⏰ **Duración:** 16 hrs <br>
 💰 **Facilidad de pago** <br>
 👩‍💻 **Modalidad virtual** <br>
-
