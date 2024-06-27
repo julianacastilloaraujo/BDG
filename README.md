@@ -11,4 +11,3 @@ La IA es una poderosa tecnología que está aportando agilidad a empresas y part
 💰 **Facilidad de pago** <br>
 👩‍💻 **Modalidad virtual** <br>
 
-
